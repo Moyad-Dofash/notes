@@ -1,5 +1,6 @@
 h1 {color: green;}
 h3 {color: salmon;}
+div .read li {color:white;} 
 .read {background:blue; margin:12px; text-size:larger;}
 .tags {background:grey; margin:12px; text-size:larger;}
 .all  {border:black; background:black; margin:12px;}
