@@ -1,5 +1,17 @@
-h1 ,h3  {text-align: center; color: green; border:outset; border-color: black; border-width:min(12, 12); }
+h1 ,h3  {text-align: center; color: green; border:outset; border-color: black; padding: 20px;
+ background:wheat; }
 h3 {color: salmon;}
 .read {background:lavenderblush; margin:12px; text-size:larger;}
-.tags {background:lavender; margin:12px;}
+.tags {background:lavenderblush; margin:12px;}
 .all  { border: outset; border-color: black; background:whitesmoke; margin:12px;}
+.read h4 , .tags h4 , .csstag h4 , .html h4 , .css h4  {text-align: center; background: wheat;}
+div p {font-size:1em;}
+li { padding:20px;
+margin:10px; 
+}
+li #img {float: right;}
+.csstag , .css {background: lavender;}
+h1 {border:20pxblack;
+width:500px;  
+margin-left: 400px;
+padding: 20px;}
